@@ -36,17 +36,17 @@
             <a href="/posts" class="bg-white hover:bg-blue-50 text-blue-600 font-bold py-8 px-6 rounded-xl shadow-lg transition duration-300 ease-in-out transform hover:-translate-y-2 hover:scale-105 flex flex-col items-center w-full max-w-sm">
                 <i class="fas fa-list-ul text-5xl mb-4"></i>
                 <span class="block text-2xl mb-2">View Posts</span>
-                <span class="text-sm text-center">Manage and review your blog posts</span>
+                <span class="text-sm text-center">Atur dan Rivyou Postingan Anda</span>
             </a>
             <a href="/posts/create" class="bg-white hover:bg-green-50 text-green-600 font-bold py-8 px-6 rounded-xl shadow-lg transition duration-300 ease-in-out transform hover:-translate-y-2 hover:scale-105 flex flex-col items-center w-full max-w-sm">
                 <i class="fas fa-pen-fancy text-5xl mb-4"></i>
                 <span class="block text-2xl mb-2">Create New Post</span>
-                <span class="text-sm text-center">Write and publish a new blog post</span>
+                <span class="text-sm text-center">Silahkan Masukan Postingan Terbaru</span>
             </a>
             <a href="/categories/categoriesIndex" class="bg-white hover:bg-yellow-50 text-yellow-600 font-bold py-8 px-6 rounded-xl shadow-lg transition duration-300 ease-in-out transform hover:-translate-y-2 hover:scale-105 flex flex-col items-center w-full max-w-sm">
                 <i class="fas fa-tags text-5xl mb-4"></i>
                 <span class="block text-2xl mb-2">View Categories</span>
-                <span class="text-sm text-center">MASIH DALAM TAHAP PENGERJAAN</span>
+                <span class="text-sm text-center">Silahkan Masukan Kategori Tebaru</span>
             </a>
         </div>
     </div>

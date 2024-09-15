@@ -9,7 +9,7 @@
 </head>
 <body class="bg-gradient-to-r from-blue-100 to-purple-100 font-sans">
     <div class="container mx-auto px-4 py-12">
-        <h1 class="text-5xl font-extrabold text-center text-indigo-800 mb-12 animate-pulse">Login to Personal Blog</h1>
+        <h1 class="text-5xl font-extrabold text-center text-indigo-800 mb-12 animate-pulse">Login</h1>
         <form action="{{ route('login') }}" method="POST" class="max-w-lg mx-auto bg-white shadow-lg rounded-xl px-8 pt-6 pb-8 mb-4">
             @csrf
             <div class="mb-4">
